@@ -1,0 +1,38 @@
+.ff {
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: auto;
+}
+
+.oo {
+    width: 350px;
+}
+
+.uu {
+    font-size: 25px;
+    font-family: "Merriweather";
+    text-align: center;
+}
+
+.ww {
+    font-size: 18px;
+    font-family: "Roboto";
+    text-align: center;
+
+}
+
+.tt {
+    text-align: center;
+    font-size: 35px;
+    font-family: "Merriweather";
+}
+
+.qq {
+    font-size: 15px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+    color: rgb(236, 154, 29);
+    background-color: black;
+    text-align: center;
+    padding: 23px;
+}
